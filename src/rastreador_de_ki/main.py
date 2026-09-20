@@ -37,3 +37,5 @@ print(f"O ki base é alto?: {ki_base_alto}")
 print(f"O guerreiro pode virar super saiyajin? {pode_virar_super_saiyajin}")    
 print(f"O guerreiro pode ser considerado um ser lendário? {e_lendario}")
 print("\n###############################")
+
+print("Fim da execução")
